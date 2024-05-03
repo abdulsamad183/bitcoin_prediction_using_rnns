@@ -40,8 +40,7 @@ To replicate the experiment or explore the code:
 
 ## Files Description
 
-- `train_model.ipynb`: Jupyter notebook containing the code for model training.
-- `test_model.ipynb`: Jupyter notebook containing the code for model evaluation.
+- `bitcoin_lstm.ipynb`: Jupyter notebook containing the code for model training & testing.
 - `train.csv`: CSV file containing the historical Bitcoin opening prices for training.
 - `test.csv`: CSV file containing the historical Bitcoin opening prices for testing.
 
